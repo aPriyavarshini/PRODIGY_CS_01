@@ -6,4 +6,6 @@ A simple implementation of the Caesar Cipher in Python. The Caesar Cipher is a t
 1. **Shift/Key**: Each letter in the plaintext is shifted a certain number of places according to the specified key (shift value).                                    
 2. **Alphabet Wrap-Around**: The alphabet is treated as circular, so after 'Z' it wraps around to 'A'.                                                                
 3. **Case Sensitivity**: The cipher preserves the case of the original letters.                                                                                       
-4. **Non-Alphabetic Characters**: Characters that are not alphabetic are not changed.                                                                                 
+4. **Non-Alphabetic Characters**: Characters that are not alphabetic are not changed.                                                                                                                                   
+ **OUTPUT:**
+    ![Screenshot 2024-06-24 012020](https://github.com/aPriyavarshini/PRODIGY_CS_01/assets/146161676/53532428-a68c-4e4c-a137-6a090c698ad2)
